@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lyra Meixi Yu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "The United States / China"
+  employer         : "Wake Forest University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yumeixi1126@outlook.com" 
 
   # Academic websites
   academia         : # URL
