@@ -13,9 +13,9 @@ title                    : "Lyra Meixi Yu"
 title_separator          : "-"
 name                     : &name "Lyra Meixi Yu"
 description              : &description "Mathematics undergraduate focusing on theoretical and computational cognitive sciences: information theory, cognitive modeling, and explainable AI"
-url                      : "https://lyrameixiyu.github.io" # the base hostname & protocol for your site e.g. "https://lyrameixiyu.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://lyrady.github.io" # the base hostname & protocol for your site e.g. "https://lyrameixiyu.github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LyraDY/lyrameixiyu.github.io"
+repository               : "lyrady/lyrady.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
